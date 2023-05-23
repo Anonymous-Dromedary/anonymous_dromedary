@@ -8,7 +8,7 @@
 
 <!-- # Dromedary -->
 
-## Anonymous Repositroy for Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision
+## Anonymous Repository for Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision
 
 </div>
 
